@@ -189,6 +189,40 @@ padding:inherit;
 background-color:#204288;
    }
 
+.pic2 {
+width:400px;
+margin-left:auto;
+margin-right:auto;
+margin-top:100px;
+border:inset;
+border-color:#E7A272;
+padding:inherit;
+background-color:#204288;
+/* Rotate div */
+transform:rotate(7deg);
+-ms-transform:rotate(7deg); /* IE 9 */
+-webkit-transform:rotate(7deg); /* Safari and Chrome */
+     }
+
+img.picture {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:370px;
+    padding-bottom:5px;
+     }
+     
+     
+.pic_text {
+text-align:center;
+color:#E7A272;
+     }
+
+#up {
+    text-align:right;
+    font-size:20px;
+     }
+
 
 
 
